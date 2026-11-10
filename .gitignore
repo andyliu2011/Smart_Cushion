@@ -1,0 +1,19 @@
+# Keil uVision 3 / C51 generated files
+*.OBJ
+*.obj
+*.LST
+*.lst
+*.M51
+*.m51
+*.lnp
+*.hex
+*.plg
+
+# Local uVision settings and automatic backups
+*.Opt
+*.opt
+*.Bak
+*.bak
+
+# Linked program output (project output name is Timer)
+/Timer
